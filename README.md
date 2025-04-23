@@ -1,2 +1,2 @@
-FinanceAgent.jsx
+# financeagent
 AI Finance &amp; ROAS Tracker for JARVIS
